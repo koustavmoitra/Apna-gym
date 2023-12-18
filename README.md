@@ -1,7 +1,8 @@
 # Apna-gym
 
-This is a simple website for practicing video source embedding and use of iframe tag.
-I have also used the gradient color scheme in this website.
+This is a simple website for practicing video source embedding and use of iframe tag.<br> <hr>
+
+I have also used the gradient color scheme in this website.<br>
 Deployed Link : https://screenrec.com/share/R7hkyOEzq6
 
 Screenshots - 
